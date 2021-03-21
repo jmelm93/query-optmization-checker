@@ -11,6 +11,7 @@
   
 *Blog post with more detailed instruction coming soon...*  
 
+
 ## File Structure
 ```bash
 < PROJECT ROOT >  
