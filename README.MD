@@ -1,9 +1,11 @@
-@title Query Optimization Checker - Colab Tool
+#@title Query Optimization Checker - Colab Tool { run: "auto", display-mode: "form" }  
 
-**STEP 1: Download File**  
-**STEP 2: Update config.py with your CLIENT ID / CLIENT SECRET for Goolge Could (*Ensure Search Console API is activated)**  
-**STEP 3: Upload files to Google Drive**  
-**STEP 4: Tool should be ready to use! - Update the "Input Variables" in the colab file with your desired Search Console property.**  
+#@markdown ---  
+
+**STEP 1:** Download File  
+**STEP 2:** Update config.py with your CLIENT ID / CLIENT SECRET for Goolge Could (Ensure Search Console API is activated)  
+**STEP 3:** Upload files to Google Drive  
+**STEP 4:** Tool should be ready to use! - Update the "Input Variables" in the colab file with your desired Search Console property.  
 
 ############################################  
 ############################################  
