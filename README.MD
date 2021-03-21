@@ -8,6 +8,7 @@
 
 ## How to Use Once Setup  
 **STEP 1:** Update the "Input Variables" in the colab file  
+  
 *Blog post with more detailed instruction coming soon...*  
 
 ## File Structure
