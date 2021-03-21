@@ -2,7 +2,7 @@
 
 ## Setup within Google Colab  
 **STEP 1:** Download File  
-**STEP 2:** Update config.py with your CLIENT_ID / CLIENT_SECRET for Search Console API (Google Cloud)  
+**STEP 2:** Update config.py with your CLIENT_ID / CLIENT_SECRET / GOOGLE_CREDENTIALS for Search Console API (Google Cloud)  
 **STEP 3:** Upload files to Google Drive  
 **STEP 4:** Tool should be ready to use!
 

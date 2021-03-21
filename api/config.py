@@ -1,10 +1,11 @@
 
 config = {
     # Google Cloud Credentials
-    'CLIENT_ID': '733455143894-uob3vcm050frdb8c0fd4qjetg2lrv9tr.apps.googleusercontent.com',
-    'CLIENT_SECRET': 'rsGCEH2QPiky0SOFDGIMNRw3',
+    'CLIENT_ID': 'XXXXXXXXXXXXXXX.apps.googleusercontent.com',
+    'CLIENT_SECRET': 'XXXXXXXXXXXXXXXXXX',
     'OAUTH_SCOPE': ['https://www.googleapis.com/auth/webmasters.readonly', 'https://www.googleapis.com/auth/analytics.readonly'],
-    'GOOGLE_CREDENTIALS': 'inseevinteractive@gmail.com',
+    # Email Associated with CLIENT_ID & CLIENT_SECRET
+    'GOOGLE_CREDENTIALS': 'exampleemail@gmail.com',
 
     # GSC data
     'ROW_LIMIT': 25000,
