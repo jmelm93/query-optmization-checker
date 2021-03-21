@@ -1,5 +1,6 @@
-# Query Optimization Checker - Colab Tool { run: "auto", display-mode: "form" }  
+# Query Optimization Checker - Colab Tool
 
+## Setup within Google Colab  
 **STEP 1:** Download File  
 **STEP 2:** Update config.py with your CLIENT_ID / CLIENT_SECRET for Search Console API (Google Clud)  
 **STEP 3:** Upload files to Google Drive  
@@ -9,11 +10,7 @@
 **STEP 1:** Update the "Input Variables" in the colab file  
 **Blog post with more detailed instruction coming soon...**  
 
-
-############################################  
-############################################  
-############################################
-
+## File Structure
 ```bash
 < PROJECT ROOT >  
    |  
