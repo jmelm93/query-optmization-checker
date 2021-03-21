@@ -11,10 +11,6 @@ config = {
     'ROW_LIMIT': 25000,
     'DATA_FOLDER': 'data',
 
-    # SEMRush
-    'SEMRUSH_KEY': '6eb1741d1db4d1637923a128740d832a',
-    'SEMRUSH_API_URL': 'http://api.semrush.com/',
-
     # Proxy Service
     'PROXY_ENDPOINT': 'https://my-project.appspot.com/render/<URL>',
 
