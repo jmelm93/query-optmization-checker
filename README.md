@@ -25,5 +25,5 @@
    |    |       |-- gsc.py                       # API / OAuth Flow - GSC API Request
    |    |-- __init__.py                          # API / OAuth Flow  - Defines `api` Package  
    |    |-- config.py                            # API / OAuth Flow - Defines Data Request Criteria  
-   |-- semrush_data_generator.py                 # CORE SCRIPT - Core Script  
+   |-- Query Optimization Checker.ipynb          # CORE SCRIPT - Core Script  
 ```
