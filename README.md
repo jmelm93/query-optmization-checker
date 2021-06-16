@@ -7,9 +7,7 @@
 **STEP 4:** Tool should be ready to use!
 
 ## How to Use Once Setup  
-**STEP 1:** Update the "Input Variables" in the colab file  
-  
-*Blog post with more detailed instruction coming soon...*  
+Deep Dive into tool setup / functionalty can be found here https://moz.com/blog/page-level-query-analysis-at-scale-with-google-colab-python-the-gsc-api-video-instructions-included
 
 
 ## File Structure
