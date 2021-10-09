@@ -25,3 +25,6 @@ Deep Dive into tool setup / functionalty can be found here https://moz.com/blog/
    |    |-- config.py                            # API / OAuth Flow - Defines Data Request Criteria  
    |-- Query Optimization Checker.ipynb          # CORE SCRIPT - Core Script  
 ```
+
+## Repo Visualization
+![Visualization of the codebase](./diagram.svg)
