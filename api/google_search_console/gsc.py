@@ -37,7 +37,7 @@ class GscClient(object):
     # Call GSC Service
     def get_gsc_service(self):
 
-        webmasters_service = build('webmasters', 'v3', http=self.client)
+        webmasters_service = build('searchconsole', 'v1', http=self.client)
 
         return webmasters_service
 
